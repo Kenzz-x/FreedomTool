@@ -1,4 +1,5 @@
 class FreedomTool:
-  def init():
+  def init(self):
     print("ok")
 ft = FreedomTool()
+ft.init()
