@@ -6,6 +6,6 @@
  "assets": {
   "version": "1.0.0",
   "path": "assets/v1/main.json",
-  "api": ""
+  "api": "https://freedom-tool-official.vercel.app/api/request"
  }
 }
