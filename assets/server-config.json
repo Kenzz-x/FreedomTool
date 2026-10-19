@@ -1,0 +1,10 @@
+{
+ "name": "FreedomTool",
+ "title": "Freedom Tool",
+ "by": "Kenzz",
+ "description": "Tool For All",
+ "assets": {
+  "version": "1.0.0",
+  "path": "assets/v1/main.json"
+ }
+}

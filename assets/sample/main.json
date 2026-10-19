@@ -1,0 +1,20 @@
+{
+ "object": [
+  {
+   "type": "global-variable",
+   "key": "server_tool_version",
+   "value": "1.0.0"
+  },
+  {
+   "type": "script",
+   "lang": "python",
+   "value": ""
+  },
+  {
+   "type": "function",
+   "lang": "python",
+   "id": "sampleFunction",
+   "value": "pass"
+  }
+ ]
+}
