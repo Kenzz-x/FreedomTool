@@ -14,7 +14,10 @@
    "type": "function",
    "lang": "python",
    "id": "sampleFunction",
-   "value": "pass"
+   "arguments": [
+    "e"
+   ],
+   "value": "print(e)"
   }
  ]
 }
